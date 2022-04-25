@@ -8,3 +8,5 @@ Logistics: optimize delivery of goods by minimizing the total distance. The note
 - Solve optimisation problem with **docplex** (IBM Decision Optimization CPLEX Modeling for Python)
 - Display results with **Folium** and the **TimestampedGeoJson** plugin
 
+![Animation](animation.gif)
+
